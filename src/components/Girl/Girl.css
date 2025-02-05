@@ -1,0 +1,364 @@
+.girl{
+    grid-template-rows: repeat(22, 1fr);
+    grid-template-columns: repeat(16, 1fr);
+}
+
+.girl-a,
+.girl-b,
+.girl-c,
+.girl-e,
+.girl-g,
+.girl-i,
+.girl-k,
+.girl-l,
+.girl-m,
+.girl-o,
+.girl-q,
+.girl-t,
+.girl-x,
+.girl-y{
+    background-color: var(--orange);
+}
+
+.girl-d,
+.girl-f,
+.girl-h,
+.girl-j,
+.girl-n,
+.girl-p,
+.girl-s,
+.girl-v,
+.girl-cc,
+.girl-ff,
+.girl-ii,
+.girl-kk,
+.girl-mm,
+.girl-oo,
+.girl-rr,
+.girl-vv,
+.girl-zz{
+    background-color: var(--white);
+}
+
+.girl-r,
+.girl-u,
+.girl-w,
+.girl-z,
+.girl-aa,
+.girl-bb,
+.girl-ee,
+.girl-gg,
+.girl-hh,
+.girl-jj,
+.girl-ll,
+.girl-nn,
+.girl-pp,
+.girl-qq,
+.girl-ss,
+.girl-uu,
+.girl-ww,
+.girl-yy,
+.girl-bbb{
+    background-color: var(--violet);
+}
+
+.girl-dd,
+.girl-tt,
+.girl-xx,
+.girl-aaa,
+.girl-ccc,
+.girl-ddd,
+.girl-eee,
+.girl-fff{
+    background-color: var(--blue);
+}
+
+.girl-a{
+    grid-row: 1;
+    grid-column: 9/16;
+}
+
+.girl-b{
+    grid-row: 2;
+    grid-column: 8/17;
+}
+
+.girl-c{
+    grid-row: 3;
+    grid-column: 7/11;
+}
+
+.girl-d{
+    grid-row: 3;
+    grid-column: 11/16;
+}
+
+.girl-e{
+    grid-row: 4;
+    grid-column: 7/9;
+}
+
+.girl-f{
+    grid-row: 4;
+    grid-column: 9;
+}
+
+.girl-g{
+    grid-row: 4;
+    grid-column: 10;
+}
+
+.girl-h{
+    grid-row: 4;
+    grid-column: 11/14;
+}
+
+.girl-i{
+    grid-row: 4;
+    grid-column: 14;
+}
+
+.girl-j{
+    grid-row: 4;
+    grid-column: 15/17;
+}
+
+.girl-k{
+    grid-row: 4;
+    grid-column: 2/4;
+}
+
+.girl-l{
+    grid-row: 5;
+    grid-column: 3/5;
+}
+
+.girl-m{
+    grid-row: 5;
+    grid-column: 8/10;
+}
+
+.girl-n{
+    grid-row: 5;
+    grid-column: 10/16;
+}
+
+.girl-o{
+    grid-row: 6;
+    grid-column: 4/10;
+}
+
+.girl-p{
+    grid-row: 6;
+    grid-column: 10/15;
+}
+
+.girl-q{
+    grid-row: 7;
+    grid-column: 2/7;
+}
+
+.girl-r{
+    grid-row: 7;
+    grid-column: 7/9;
+}
+
+.girl-s{
+    grid-row: 7;
+    grid-column: 9/13;
+}
+
+.girl-t{
+    grid-row: 8;
+    grid-column: 3/7;
+}
+
+.girl-u{
+    grid-row: 8;
+    grid-column: 7/10;
+}
+
+.girl-v{
+    grid-row: 8;
+    grid-column: 10/13;
+}
+
+.girl-w{
+    grid-row: 8;
+    grid-column: 13;
+}
+
+.girl-x{
+    grid-row: 9;
+    grid-column: 2;
+}
+
+.girl-y{
+    grid-row: 9;
+    grid-column: 4;
+}
+
+.girl-z{
+    grid-row: 9;
+    grid-column: 7/14;
+}
+
+.girl-aa{
+    grid-row: 10;
+    grid-column: 7/13;
+}
+
+.girl-bb{
+    grid-row: 11;
+    grid-column: 8/15;
+}
+
+.girl-cc{
+    grid-row: 11;
+    grid-column: 15/17;
+}
+
+.girl-dd{
+    grid-row: 12;
+    grid-column: 8/12;
+}
+
+.girl-ee{
+    grid-row: 12;
+    grid-column: 12/15;
+}
+
+.girl-ff{
+    grid-row: 12;
+    grid-column: 15;
+}
+
+.girl-gg{
+    grid-row: 13;
+    grid-column: 6/14;
+}
+
+.girl-hh{
+    grid-row: 14;
+    grid-column: 4/14;
+}
+
+.girl-ii{
+    grid-row: 14;
+    grid-column: 14/16;
+}
+
+.girl-jj{
+    grid-row: 15;
+    grid-column: 1/3;
+}
+
+.girl-kk{
+    grid-row: 15;
+    grid-column: 3/5;
+}
+
+.girl-ll{
+    grid-row: 15;
+    grid-column: 5/15;
+}
+
+.girl-mm{
+    grid-row: 15;
+    grid-column: 15;
+}
+
+.girl-nn{
+    grid-row: 16;
+    grid-column: 2/4;
+}
+
+.girl-oo{
+    grid-row: 16;
+    grid-column: 4/7;
+}
+
+.girl-pp{
+    grid-row: 16;
+    grid-column: 7/15;
+}
+
+.girl-qq{
+    grid-row: 17;
+    grid-column: 3/6;
+}
+
+.girl-rr{
+    grid-row: 17;
+    grid-column: 6/8;
+}
+
+.girl-ss{
+    grid-row: 17;
+    grid-column: 8/15;
+}
+
+.girl-tt{
+    grid-row: 18;
+    grid-column: 3/5;
+}
+
+.girl-uu{
+    grid-row: 18;
+    grid-column: 5/8;
+}
+
+.girl-vv{
+    grid-row: 18;
+    grid-column: 8/11;
+}
+
+.girl-ww{
+    grid-row: 18;
+    grid-column: 11/15;
+}
+
+.girl-xx{
+    grid-row: 19;
+    grid-column: 2/6;
+}
+
+.girl-yy{
+    grid-row: 19;
+    grid-column: 7/10;
+}
+
+.girl-zz{
+    grid-row: 19;
+    grid-column: 10/15;
+}
+
+.girl-aaa{
+    grid-row: 20;
+    grid-column: 3/5;
+}
+
+.girl-bbb{
+    grid-row: 20;
+    grid-column: 9/15;
+}
+
+.girl-ccc{
+    grid-row: 21;
+    grid-column: 4/6;
+}
+
+.girl-ddd{
+    grid-row: 21;
+    grid-column: 11/14;
+}
+
+.girl-eee{
+    grid-row: 22;
+    grid-column: 11;
+}
+
+.girl-fff{
+    grid-row: 22;
+    grid-column: 13/16;
+}

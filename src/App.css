@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  /* colors  */
+  --black: #000000;
+  --red: #FA0000;
+  --red-two: #990000;
+  --red-three: #B70000;
+  --white: #FCFCFF;
+  --white-two: #F5E4E7;
+  --blue: #0000EC;
+  --blue-two: #2F15CF;
+  --blue-three: #00CEDB;
+  --peach: #FBBA99;
+  --pink: #DA2385;
+  --orange: #FB7100;
+  --violet: #FA4EF2;
+}
+
+
+body{
+  width: 910px;
+  height: 1050px;
+  background-color: var(--black);
+  border: solid 1px white;
+}

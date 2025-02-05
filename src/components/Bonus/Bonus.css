@@ -1,0 +1,5 @@
+.bonus-inner-top-line,
+.bonus-inner-verticle-line,
+.bonus-line{
+    background-color: var(--blue-three);
+}

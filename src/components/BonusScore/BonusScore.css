@@ -1,0 +1,148 @@
+.bonus-score{
+    border: solid 3px var(--pink);
+}
+.bonus-zero-a,
+.bonus-zero-b,
+.bonus-zero-c,
+.bonus-zero-d,
+.bonus-zero-e,
+.bonus-zero-f,
+.bonus-zero-g,
+.bonus-zero-h,
+.bonus-four-a,
+.bonus-four-b,
+.bonus-four-c,
+.bonus-four-d,
+.bonus-four-e,
+.bonus-four-f,
+.bonus-seven-a,
+.bonus-seven-b,
+.bonus-seven-c,
+.bonus-seven-d,
+.bonus-seven-e,
+.bonus-seven-f{
+    background-color: var(--blue-three);
+}
+
+.bonus-zero, .bonus-seven, .bonus-four{
+    width: 25px;
+    height: 25px;
+}
+
+.bonus-zero{
+    grid-template-rows: 1fr 1fr 2fr 1fr 1fr;
+    grid-template-columns: repeat(7, 1fr);
+
+}
+
+.bonus-zero-a{
+    grid-row: 1;
+    grid-column: 3/6;
+}
+
+.bonus-zero-b{
+    grid-row: 2/5;
+    grid-column: 2;
+}
+
+.bonus-zero-c{
+    grid-row: 3/4;
+    grid-column: 1;
+}
+
+.bonus-zero-d{
+    grid-row: 4;
+    grid-column: 3;
+}
+
+.bonus-zero-e{
+    grid-row: 5;
+    grid-column: 3/6;
+}
+
+.bonus-zero-f{
+    grid-row: 2;
+    grid-column: 5;
+}
+
+.bonus-zero-g{
+    grid-row: 2/5;
+    grid-column: 6;
+}
+
+.bonus-zero-h{
+    grid-row: 3;
+    grid-column: 7;
+}
+
+
+.bonus-seven{
+    grid-template-rows: 1fr 1fr 1fr 1fr 3fr;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr;
+
+}
+
+.bonus-seven-a{
+    grid-row: 1;
+    grid-column: 1/7;
+}
+
+.bonus-seven-b{
+    grid-row: 2;
+    grid-column: 1;
+}
+
+.bonus-seven-c{
+    grid-row: 2;
+    grid-column: 5/7;
+}
+
+.bonus-seven-d{
+    grid-row: 3;
+    grid-column: 4/6;
+}
+
+.bonus-seven-e{
+    grid-row: 4;
+    grid-column: 3/5;
+}
+
+.bonus-seven-f{
+    grid-row: 5;
+    grid-column: 2/4;
+}
+
+.bonus-four{
+    grid-template-rows: repeat(7, 1fr);
+    grid-template-columns: repeat(7, 1fr);
+}
+
+.bonus-four-a{
+    grid-row: 1/8;
+    grid-column: 5/7;
+}
+
+.bonus-four-b{
+    grid-row: 1;
+    grid-column: 4;
+}
+
+.bonus-four-c{
+    grid-row: 2;
+    grid-column: 3/5;
+}
+
+.bonus-four-d{
+    grid-row: 3;
+    grid-column: 2/4;
+}
+
+.bonus-four-e{
+    grid-row: 4;
+    grid-column: 1/3;
+}
+
+.bonus-four-f{
+    grid-row: 5;
+    grid-column: 1/8;
+}

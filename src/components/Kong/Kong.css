@@ -1,0 +1,1176 @@
+.kong{
+    grid-template-rows: repeat(32, 1fr);
+    grid-template-columns: repeat(44, 1fr);
+}
+
+.kong-a,
+.kong-b,
+.kong-d,
+.kong-f,
+.kong-h,
+.kong-m,
+.kong-n,
+.knog-q,
+.kong-p,
+.kong-s,
+.kong-j,
+.kong-v,
+.kong-x,
+.kong-aa,
+.kong-cc,
+.kong-ee,
+.kong-hh,
+.kong-jj,
+.kong-ll,
+.kong-oo,
+.kong-qq,
+.kong-ss,
+.kong-uu,
+.kong-yy,
+.kong-aaa,
+.kong-ccc,
+.kong-eee,
+.kong-hhh,
+.kong-jjj,
+.kong-lll,
+.kong-ooo,
+.kong-qqq,
+.kong-sss,
+.kong-vvv,
+.kong-xxx,
+.kong-aaaa,
+.kong-cccc,
+.kong-eeee,
+.kong-gggg,
+.kong-iiii,
+.kong-kkkk,
+.kong-mmmm,
+.kong-oooo,
+.kong-qqqq,
+.kong-ssss,
+.kong-tttt,
+.kong-vvvv,
+.kong-wwww,
+.kong-yyyy,
+.kong-zzzz,
+.kong-eeeee,
+.kong-fffff,
+.kong-iiiii,
+.kong-jjjjj,
+.kong-kkkkk,
+.kong-nnnnn,
+.kong-qqqqq,
+.kong-rrrrr,
+.kong-uuuuu,
+.kong-wwwww,
+.kong-zzzzz,
+.kong-aaaaaa,
+.kong-cccccc,
+.kong-gggggg,
+.kong-hhhhhh,
+.kong-jjjjjj,
+.kong-mmmmmm,
+.kong-pppppp,
+.kong-qqqqqq,
+.kong-rrrrrr,
+.kong-vvvvvv,
+.kong-wwwwww,
+.kong-xxxxxx,
+.kong-ggggggg,
+.kong-iiiiiii,
+.kong-kkkkkkk,
+.kong-lllllll,
+.kong-nnnnnnn,
+.kong-vvvvvvv,
+.kong-xxxxxxx,
+.kong-zzzzzzz{
+    background-color: var(--red-three);
+}
+
+.kong-c,
+.kong-e,
+.kong-i,
+.kong-l,
+.kong-o,
+.kong-r,
+.kong-u,
+.kong-w,
+.kong-z,
+.kong-bb,
+.kong-gg,
+.kong-ii,
+.kong-nn,
+.kong-pp,
+.kong-rr,
+.kong-ww,
+.kong-xx,
+.kong-zz,
+.kong-bbb,
+.kong-ggg,
+.kong-iii,
+.kong-nnn,
+.kong-ppp,
+.kong-uuu,
+.kong-zzz,
+.kong-uuuu,
+.kong-xxxx,
+.kong-aaaaa,
+.kong-ccccc,
+.kong-ggggg,
+.kong-lllll,
+.kong-ppppp,
+.kong-sssss,
+.kong-xxxxx,
+.kong-yyyyy,
+.kong-dddddd,
+.kong-ffffff,
+.kong-gggggg,
+.kong-kkkkkk,
+.kong-nnnnnn,
+.kong-oooooo,
+.kong-ssssss,
+.kong-uuuuuu,
+.kong-yyyyyy,
+.kong-aaaaaaa,
+.kong-ccccccc,
+.kong-ddddddd,
+.kong-fffffff,
+.kong-hhhhhhh,
+.kong-jjjjjjj,
+.kong-mmmmmmm,
+.kong-ooooooo,
+.kong-ppppppp,
+.kong-rrrrrrr,
+.kong-sssssss,
+.kong-uuuuuuu,
+.kong-wwwwwww,
+.kong-yyyyyyy,
+.kong-aaaaaaaa,
+.kong-bbbbbbbb,
+.kong-cccccccc,
+.kong-eeeeeeee,
+.kong-ffffffff,
+.kong-hhhhhhhh,
+.kong-jjjjjjjj{
+    background-color: var(--peach);
+}
+
+.kong-g,
+.kong-n,
+.kong-t,
+.kong-y,
+.kong-dd,
+.kong-ff,
+.kong-kk,
+.kong-mm,
+.kong-tt,
+.kong-vv,
+.kong-ddd,
+.kong-fff,
+.kong-kkk,
+.kong-mmm,
+.kong-rrr,
+.kong-ttt,
+.kong-www,
+.kong-yyy,
+.kong-bbbb,
+.kong-dddd,
+.kong-ffff,
+.kong-hhhh,
+.kong-jjjj,
+.kong-llll,
+.kong-nnnn,
+.kong-pppp,
+.kong-rrrr,
+.kong-bbbbb,
+.kong-ddddd,
+.kong-hhhhh,
+.kong-mmmmm,
+.kong-ooooo,
+.kong-ttttt,
+.kong-vvvvv,
+.kong-bbbbbb,
+.kong-eeeeee,
+.kong-iiiiii,
+.kong-llllll,
+.kong-tttttt,
+.kong-zzzzzz,
+.kong-bbbbbbb,
+.kong-eeeeeee,
+.kong-qqqqqqq,
+.kong-ttttttt,
+.kong-dddddddd,
+.kong-gggggggg,
+.kong-iiiiiiii{
+    background-color: var(--orange);
+}
+
+.kong-k,
+.kong-q{
+    background-color: var(--white-two);
+}
+
+.kong-a{
+    grid-row: 1;
+    grid-column: 8/15;
+}
+
+.kong-b{
+    grid-row: 2;
+    grid-column: 7/17;
+}
+
+.kong-c{
+    grid-row: 3;
+    grid-column: 7/10;
+}
+
+.kong-d{
+    grid-row: 3;
+    grid-column: 10/18;
+}
+
+.kong-e{
+    grid-row: 4;
+    grid-column: 6/13;
+}
+
+.kong-f{
+    grid-row: 4;
+    grid-column: 13/18;
+}
+
+.kong-g{
+    grid-row: 4;
+    grid-column: 18/21;
+}
+
+.kong-h{
+    grid-row: 4;
+    grid-column: 21;
+}
+
+.kong-i{
+    grid-row: 5;
+    grid-column: 6;
+}
+
+.kong-i{
+    grid-row: 5;
+    grid-column: 6;
+}
+
+.kong-k{
+    grid-row: 5;
+    grid-column: 7/9;
+}
+
+.kong-l{
+    grid-row: 5;
+    grid-column: 9/14;
+}
+
+.kong-m{
+    grid-row: 5;
+    grid-column: 14/21;
+}
+
+.kong-n{
+    grid-row: 5;
+    grid-column: 21/25;
+}
+
+.kong-j{
+    grid-row: 6;
+    grid-column: 4/6;
+}
+
+.kong-o{
+    grid-row: 6;
+    grid-column: 6;
+}
+
+.kong-p{
+    grid-row: 6;
+    grid-column: 7;
+}
+
+.kong-q{
+    grid-row: 6;
+    grid-column: 8;
+}
+
+.kong-r{
+    grid-row: 6;
+    grid-column: 9/13;
+}
+
+.kong-s{
+    grid-row: 6;
+    grid-column: 13/15;
+}
+
+.kong-nn{
+    grid-row: 6;
+    grid-column: 15/17;
+}
+
+.kong-oo{
+    grid-row: 6;
+    grid-column: 17/25;
+}
+
+.kong-t{
+    grid-row: 6;
+    grid-column: 25/27;
+}
+
+.kong-u{
+    grid-row: 7;
+    grid-column: 3/12;
+}
+
+.kong-v{
+    grid-row: 7;
+    grid-column: 12/14;
+}
+
+.kong-w{
+    grid-row: 7;
+    grid-column: 14/18;
+}
+
+.kong-x{
+    grid-row: 7;
+    grid-column: 18/27;
+}
+
+.kong-y{
+    grid-row: 7;
+    grid-column: 27;
+}
+
+.kong-z{
+    grid-row: 8;
+    grid-column: 2/11;
+}
+
+.kong-aa{
+    grid-row: 8;
+    grid-column: 11/14;
+}
+
+.kong-bb{
+    grid-row: 8;
+    grid-column: 14/18;
+}
+
+.kong-cc{
+    grid-row: 8;
+    grid-column: 18/22;
+}
+
+.kong-dd{
+    grid-row: 8;
+    grid-column: 22/24;
+}
+
+.kong-ee{
+    grid-row: 8;
+    grid-column: 24/28;
+}
+
+.kong-ff{
+    grid-row: 8;
+    grid-column: 28;
+}
+
+.kong-gg{
+    grid-row: 9;
+    grid-column: 2/10;
+}
+
+.kong-hh{
+    grid-row: 9;
+    grid-column: 10/15;
+}
+
+.kong-ii{
+    grid-row: 9;
+    grid-column: 15;
+}
+
+.kong-jj{
+    grid-row: 9;
+    grid-column: 15/23;
+}
+
+.kong-kk{
+    grid-row: 9;
+    grid-column: 23;
+}
+
+.kong-ll{
+    grid-row: 9;
+    grid-column: 24/29;
+}
+
+.kong-mm{
+    grid-row: 9;
+    grid-column: 29;
+}
+
+.kong-pp{
+    grid-row: 10;
+    grid-column: 1/11;
+}
+
+.kong-qq{
+    grid-row: 10;
+    grid-column: 11/14;
+}
+
+.kong-ww{
+    grid-row: 9;
+    grid-column: 15;
+}
+
+.kong-rr{
+    grid-row: 10;
+    grid-column: 14/16;
+}
+
+.kong-ss{
+    grid-row: 10;
+    grid-column: 16/23;
+}
+
+.kong-tt{
+    grid-row: 10;
+    grid-column: 23;
+}
+
+.kong-uu{
+    grid-row: 10;
+    grid-column: 24/29;
+}
+
+.kong-vv{
+    grid-row: 10;
+    grid-column: 29;
+}
+
+.kong-xx{
+    grid-row: 11;
+    grid-column: 1;
+}
+
+.kong-yy{
+    grid-row: 11;
+    grid-column: 2/7;
+}
+
+.kong-zz{
+    grid-row: 11;
+    grid-column: 7/12;
+}
+
+.kong-aaa{
+    grid-row: 11;
+    grid-column: 12;
+}
+
+.kong-bbb{
+    grid-row: 11;
+    grid-column: 13/15;
+}
+
+.kong-ccc{
+    grid-row: 11;
+    grid-column: 15/23;
+}
+
+.kong-ddd{
+    grid-row: 11;
+    grid-column: 23;
+}
+
+.kong-eee{
+    grid-row: 11;
+    grid-column: 24/30;
+}
+
+.kong-fff{
+    grid-row: 11;
+    grid-column: 30;
+}
+
+.kong-ggg{
+    grid-row: 12;
+    grid-column: 2/7;
+}
+
+.kong-hhh{
+    grid-row: 12;
+    grid-column: 7;
+}
+
+.kong-iii{
+    grid-row: 12;
+    grid-column: 8/14;
+}
+
+.kong-jjj{
+    grid-row: 12;
+    grid-column: 14/23;
+}
+
+.kong-kkk{
+    grid-row: 12;
+    grid-column: 23;
+}
+
+.kong-lll{
+    grid-row: 12;
+    grid-column: 24/30;
+}
+
+.kong-mmm{
+    grid-row: 12;
+    grid-column: 30;
+}
+
+.kong-nnn{
+    grid-row: 13;
+    grid-column: 3/8;
+}
+
+.kong-ooo{
+    grid-row: 13;
+    grid-column: 8;
+}
+
+.kong-ppp{
+    grid-row: 13;
+    grid-column: 9/13;
+}
+
+.kong-qqq{
+    grid-row: 13;
+    grid-column: 13/23;
+}
+
+.kong-rrr{
+    grid-row: 13;
+    grid-column: 23;
+}
+
+.kong-sss{
+    grid-row: 13;
+    grid-column: 24/30;
+}
+
+.kong-ttt{
+    grid-row: 13;
+    grid-column: 30;
+}
+
+.kong-uuu{
+    grid-row: 14;
+    grid-column: 4/13;
+}
+
+.kong-vvv{
+    grid-row: 14;
+    grid-column: 13/22;
+}
+
+.kong-www{
+    grid-row: 14;
+    grid-column: 22/24;
+}
+
+.kong-xxx{
+    grid-row: 14;
+    grid-column: 24/30;
+}
+
+.kong-yyy{
+    grid-row: 14;
+    grid-column: 30/32;
+}
+
+.kong-zzz{
+    grid-row: 15;
+    grid-column: 7/12;
+}
+
+.kong-aaaa{
+    grid-row: 15;
+    grid-column: 12/22;
+}
+
+.kong-bbbb{
+    grid-row: 15;
+    grid-column: 22;
+}
+
+.kong-cccc{
+    grid-row: 15;
+    grid-column: 23/31;
+}
+
+.kong-dddd{
+    grid-row: 15;
+    grid-column: 31;
+}
+
+.kong-eeee{
+    grid-row: 16;
+    grid-column: 11/21;
+}
+
+.kong-ffff{
+    grid-row: 16;
+    grid-column: 21/23;
+}
+
+.kong-gggg{
+    grid-row: 16;
+    grid-column: 23/31;
+}
+
+.kong-hhhh{
+    grid-row: 16;
+    grid-column: 31/33;
+}
+
+.kong-iiii{
+    grid-row: 17;
+    grid-column: 10/20;
+}
+
+.kong-jjjj{
+    grid-row: 17;
+    grid-column: 20/22;
+}
+
+.kong-kkkk{
+    grid-row: 17;
+    grid-column: 22/33;
+}
+
+.kong-llll{
+    grid-row: 17;
+    grid-column: 33;
+}
+
+.kong-mmmm{
+    grid-row: 18;
+    grid-column: 10/19;
+}
+
+.kong-nnnn{
+    grid-row: 18;
+    grid-column: 19/21;
+}
+
+.kong-oooo{
+    grid-row: 18;
+    grid-column: 21/34;
+}
+
+.kong-pppp{
+    grid-row: 18;
+    grid-column: 34;
+}
+
+.kong-qqqq{
+    grid-row: 19;
+    grid-column: 9/18;
+}
+
+.kong-rrrr{
+    grid-row: 19;
+    grid-column: 18/20;
+}
+
+.kong-ssss{
+    grid-row: 19;
+    grid-column: 20/36;
+}
+
+.kong-tttt{
+    grid-row: 20;
+    grid-column: 9/18;
+}
+
+.kong-uuuu{
+    grid-row: 20;
+    grid-column: 18/20;
+}
+
+.kong-vvvv{
+    grid-row: 20;
+    grid-column: 20/37;
+}
+
+.kong-wwww{
+    grid-row: 21;
+    grid-column: 8/17;
+}
+
+.kong-xxxx{
+    grid-row: 21;
+    grid-column: 17/20;
+}
+
+.kong-yyyy{
+    grid-row: 21;
+    grid-column: 20/37;
+}
+
+.kong-zzzz{
+    grid-row: 22;
+    grid-column: 7/16;
+}
+
+.kong-aaaaa{
+    grid-row: 22;
+    grid-column: 16;
+}
+
+.kong-bbbbb{
+    grid-row: 22;
+    grid-column: 17;
+}
+
+.kong-ccccc{
+    grid-row: 22;
+    grid-column: 18;
+}
+
+.kong-ddddd{
+    grid-row: 22;
+    grid-column: 19/22;
+}
+
+.kong-eeeee{
+    grid-row: 22;
+    grid-column: 22/37;
+}
+
+.kong-fffff{
+    grid-row: 23;
+    grid-column: 7/15;
+}
+
+.kong-ggggg{
+    grid-row: 23;
+    grid-column: 16/18;
+}
+
+.kong-hhhhh{
+    grid-row: 23;
+    grid-column: 18/24;
+}
+
+.kong-iiiii{
+    grid-row: 23;
+    grid-column: 24/37;
+}
+
+.kong-jjjjj{
+    grid-row: 24;
+    grid-column: 6/14;
+}
+
+.kong-kkkkk{
+    grid-row: 24;
+    grid-column: 15/17;
+}
+
+.kong-lllll{
+    grid-row: 24;
+    grid-column: 17/20;
+}
+
+.kong-mmmmm{
+    grid-row: 24;
+    grid-column: 20/27;
+}
+
+.kong-nnnnn{
+    grid-row: 24;
+    grid-column: 27/37;
+}
+
+.kong-ooooo{
+    grid-row: 24;
+    grid-column: 37/39;
+}
+
+.kong-ppppp{
+    grid-row: 25;
+    grid-column: 1/6;
+}
+
+.kong-qqqqq{
+    grid-row: 25;
+    grid-column: 6/13;
+}
+
+.kong-rrrrr{
+    grid-row: 25;
+    grid-column: 14/20;
+}
+
+.kong-sssss{
+    grid-row: 25;
+    grid-column: 20;
+}
+
+.kong-ttttt{
+    grid-row: 25;
+    grid-column: 21/29;
+}
+
+.kong-uuuuu{
+    grid-row: 25;
+    grid-column: 29/38;
+}
+
+.kong-vvvvv{
+    grid-row: 25;
+    grid-column: 38/40;
+}
+
+.kong-wwwww{
+    grid-row: 25;
+    grid-column: 40/42;
+}
+
+.kong-xxxxx{
+    grid-row: 25;
+    grid-column: 42;
+}
+
+.kong-yyyyy{
+    grid-row: 26;
+    grid-column: 1/7;
+}
+
+.kong-zzzzz{
+    grid-row: 26;
+    grid-column: 7/12;
+}
+
+.kong-aaaaaa{
+    grid-row: 26;
+    grid-column: 14/22;
+}
+
+.kong-bbbbbb{
+    grid-row: 26;
+    grid-column: 22/30;
+}
+
+.kong-cccccc{
+    grid-row: 26;
+    grid-column: 30/42;
+}
+
+.kong-dddddd{
+    grid-row: 26;
+    grid-column: 42;
+}
+
+.kong-eeeeee{
+    grid-row: 26;
+    grid-column: 43;
+}
+
+.kong-ffffff{
+    grid-row: 27;
+    grid-column: 1;
+}
+
+.kong-gggggg{
+    grid-row: 27;
+    grid-column: 3/6;
+}
+
+.kong-hhhhhh{
+    grid-row: 27;
+    grid-column: 6/11;
+}
+
+.kong-jjjjjj{
+    grid-row: 27;
+    grid-column: 13/24;
+}
+
+.kong-iiiiii{
+    grid-row: 27;
+    grid-column: 24/30;
+}
+
+.kong-mmmmmm{
+    grid-row: 27;
+    grid-column: 30/41
+}
+
+.kong-kkkkkk{
+    grid-row: 27;
+    grid-column: 41/43
+}
+
+.kong-llllll{
+    grid-row: 27;
+    grid-column: 43
+}
+
+.kong-nnnnnn{
+    grid-row: 28;
+    grid-column: 1
+}
+
+.kong-oooooo{
+    grid-row: 28;
+    grid-column: 3/7
+}
+
+.kong-pppppp{
+    grid-row: 28;
+    grid-column: 7/11
+}
+
+.kong-qqqqqq{
+    grid-row: 28;
+    grid-column: 13/22
+}
+
+.kong-rrrrrr{
+    grid-row: 28;
+    grid-column: 31/41
+}
+
+.kong-ssssss{
+    grid-row: 28;
+    grid-column: 41/43
+}
+
+.kong-tttttt{
+    grid-row: 28;
+    grid-column: 43
+}
+
+.kong-uuuuuu{
+    grid-row: 29;
+    grid-column: 2/9
+}
+
+.kong-vvvvvv{
+    grid-row: 29;
+    grid-column: 9
+}
+
+.kong-wwwwww{
+    grid-row: 29;
+    grid-column: 14/22
+}
+
+.kong-xxxxxx{
+    grid-row: 29;
+    grid-column: 32/42
+}
+
+.kong-yyyyyy{
+    grid-row: 29;
+    grid-column: 42
+}
+
+.kong-zzzzzz{
+    grid-row: 29;
+    grid-column: 43
+}
+
+.kong-aaaaaaa{
+    grid-row: 30;
+    grid-column: 1/4
+}
+
+.kong-bbbbbbb{
+    grid-row: 30;
+    grid-column: 4
+}
+
+.kong-ccccccc{
+    grid-row: 30;
+    grid-column: 5/9
+}
+
+.kong-ddddddd{
+    grid-row: 30;
+    grid-column: 11
+}
+
+.kong-eeeeeee{
+    grid-row: 30;
+    grid-column: 12
+}
+
+.kong-fffffff{
+    grid-row: 30;
+    grid-column: 13
+}
+
+.kong-ggggggg{
+    grid-row: 30;
+    grid-column: 14/16
+}
+
+.kong-hhhhhhh{
+    grid-row: 30;
+    grid-column: 16
+}
+
+.kong-iiiiiii{
+    grid-row: 30;
+    grid-column: 17/19
+}
+
+.kong-jjjjjjj{
+    grid-row: 30;
+    grid-column: 19/21
+}
+
+.kong-kkkkkkk{
+    grid-row: 30;
+    grid-column: 21/23
+}
+
+.kong-lllllll{
+    grid-row: 30;
+    grid-column: 37/40
+}
+
+.kong-mmmmmmm{
+    grid-row: 30;
+    grid-column: 40
+}
+
+.kong-nnnnnnn{
+    grid-row: 30;
+    grid-column: 41
+}
+
+.kong-ooooooo{
+    grid-row: 30;
+    grid-column: 42
+}
+
+.kong-ppppppp{
+    grid-row: 31;
+    grid-column: 1/3
+}
+
+.kong-qqqqqqq{
+    grid-row: 31;
+    grid-column: 3
+}
+
+.kong-rrrrrrr{
+    grid-row: 31;
+    grid-column: 4/8
+}
+
+.kong-sssssss{
+    grid-row: 31;
+    grid-column: 10
+}
+
+.kong-ttttttt{
+    grid-row: 31;
+    grid-column: 11
+}
+
+.kong-uuuuuuu{
+    grid-row: 31;
+    grid-column: 12
+}
+
+.kong-vvvvvvv{
+    grid-row: 31;
+    grid-column: 13
+}
+
+.kong-wwwwwww{
+    grid-row: 31;
+    grid-column: 13/22
+}
+
+.kong-xxxxxxx{
+    grid-row: 31;
+    grid-column: 22
+}
+
+.kong-yyyyyyy{
+    grid-row: 31;
+    grid-column: 36/39
+}
+
+.kong-zzzzzzz{
+    grid-row: 31;
+    grid-column: 39
+}
+
+.kong-aaaaaaaa{
+    grid-row: 31;
+    grid-column: 40/43
+}
+
+.kong-bbbbbbbb{
+    grid-row: 32;
+    grid-column: 2/5
+}
+
+.kong-cccccccc{
+    grid-row: 32;
+    grid-column: 10
+}
+
+.kong-dddddddd{
+    grid-row: 32;
+    grid-column: 11
+}
+
+.kong-eeeeeeee{
+    grid-row: 32;
+    grid-column: 12/23
+}
+
+.kong-ffffffff{
+    grid-row: 32;
+    grid-column: 35
+}
+
+.kong-gggggggg{
+    grid-row: 32;
+    grid-column: 36
+}
+
+.kong-hhhhhhhh{
+    grid-row: 32;
+    grid-column: 37
+}
+
+.kong-iiiiiiii{
+    grid-row: 32;
+    grid-column: 38
+}
+
+.kong-jjjjjjjj{
+    grid-row: 32;
+    grid-column: 39/42
+}
