@@ -19,6 +19,24 @@ const Mario = () => {
             <div className="mario-n"></div>
             <div className="mario-o"></div>
             <div className="mario-p"></div>
+            <div className="mario-q"></div>
+            <div className="mario-r"></div>
+            <div className="mario-s"></div>
+            <div className="mario-t"></div>
+            <div className="mario-u"></div>
+            <div className="mario-v"></div>
+            <div className="mario-w"></div>
+            <div className="mario-x"></div>
+            <div className="mario-y"></div>
+            <div className="mario-z"></div>
+            <div className="mario-aa"></div>
+            <div className="mario-bb"></div>
+            <div className="mario-cc"></div>
+            <div className="mario-dd"></div>
+            <div className="mario-ee"></div>
+            <div className="mario-ff"></div>
+            <div className="mario-gg"></div>
+            <div className="mario-hh"></div>
         </article>
     )
 }
