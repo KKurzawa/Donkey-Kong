@@ -1,0 +1,151 @@
+.blue-verticle-barrel-a,
+.blue-verticle-barrel-b,
+.blue-verticle-barrel-c,
+.blue-verticle-barrel-f,
+.blue-verticle-barrel-i,
+.blue-verticle-barrel-j,
+.blue-verticle-barrel-k,
+.blue-verticle-barrel-n,
+.blue-verticle-barrel-o,
+.blue-verticle-barrel-r,
+.blue-verticle-barrel-s,
+.blue-verticle-barrel-v,
+.blue-verticle-barrel-w{
+    background-color: var(--blue-three);
+}
+
+.blue-verticle-barrel-d,
+.blue-verticle-barrel-e,
+.blue-verticle-barrel-g,
+.blue-verticle-barrel-h,
+.blue-verticle-barrel-p,
+.blue-verticle-barrel-q,
+.blue-verticle-barrel-t,
+.blue-verticle-barrel-u{
+    background-color: var(--blue-two);
+}
+
+.blue-verticle-barrel-l,
+.blue-verticle-barrel-m{
+    background-color: var(--white);
+}
+
+.blue-verticle-barrel{
+    grid-template-rows: repeat(10, 1fr);
+    grid-template-columns: repeat(14, 1fr);
+}
+
+.blue-verticle-barrel-a{
+    grid-row: 1;
+    grid-column: 4/12;
+}
+
+.blue-verticle-barrel-b{
+    grid-row: 2;
+    grid-column: 3/5;
+}
+
+.blue-verticle-barrel-c{
+    grid-row: 2;
+    grid-column: 11/13;
+}
+
+.blue-verticle-barrel-d{
+    grid-row: 2;
+    grid-column: 5/11;
+}
+
+.blue-verticle-barrel-e{
+    grid-row: 3;
+    grid-column: 3/13;
+}
+
+.blue-verticle-barrel-f{
+    grid-row: 4/8;
+    grid-column: 3/13;
+}
+
+.blue-verticle-barrel-g{
+    grid-row: 8;
+    grid-column: 3/13;
+}
+
+.blue-verticle-barrel-h{
+    grid-row: 9;
+    grid-column: 5/11;
+}
+
+.blue-verticle-barrel-i{
+    grid-row: 10;
+    grid-column: 4/12;
+}
+
+.blue-verticle-barrel-j{
+    grid-row: 9;
+    grid-column: 3/5;
+}
+
+.blue-verticle-barrel-k{
+    grid-row: 9;
+    grid-column: 11/13;
+}
+
+.blue-verticle-barrel-l{
+    grid-row: 2/10;
+    grid-column: 2;
+}
+
+.blue-verticle-barrel-m{
+    grid-row: 2/10;
+    grid-column: 13;
+}
+
+.blue-verticle-barrel-n{
+    grid-row: 3;
+    grid-column: 1;
+}
+
+.blue-verticle-barrel-o{
+    grid-row: 3;
+    grid-column: 14;
+}
+
+.blue-verticle-barrel-p{
+    grid-row: 4;
+    grid-column: 1;
+}
+
+.blue-verticle-barrel-q{
+    grid-row: 4;
+    grid-column: 14;
+}
+
+.blue-verticle-barrel-r{
+    grid-row: 5/7;
+    grid-column: 1;
+}
+
+.blue-verticle-barrel-s{
+    grid-row: 5/7;
+    grid-column: 14;
+}
+
+.blue-verticle-barrel-t{
+    grid-row: 7;
+    grid-column: 1;
+}
+
+.blue-verticle-barrel-u{
+    grid-row: 7;
+    grid-column: 14;
+}
+
+.blue-verticle-barrel-v{
+    grid-row: 8;
+    grid-column: 1;
+}
+
+.blue-verticle-barrel-w{
+    grid-row: 8;
+    grid-column: 14;
+}

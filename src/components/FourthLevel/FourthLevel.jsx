@@ -4,7 +4,7 @@ import FloorPiece from '../FloorPiece/FloorPiece'
 const FourthLevel = () => {
     return (
         <article className="fourth mb-[139px]">
-            <section className='fourth-floor flex'>
+            <section className='fourth-floor flex relative z-10'>
                 <FloorPiece />
                 <div className='relative top-[3.5px]'>
                     <FloorPiece />
@@ -33,13 +33,13 @@ const FourthLevel = () => {
                 <div className='relative top-[31.5px]'>
                     <FloorPiece />
                 </div>
-                <div className='relative top-[32px]'>
+                <div className='relative top-[35px]'>
                     <FloorPiece />
                 </div>
-                <div className='relative top-[35.5px]'>
+                <div className='relative top-[38.5px]'>
                     <FloorPiece />
                 </div>
-                <div className='relative top-[39px]'>
+                <div className='relative top-[41px]'>
                     <FloorPiece />
                 </div>
             </section>

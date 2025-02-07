@@ -11,8 +11,6 @@ const FirstLevel = () => {
                 <FloorPiece />
                 <FloorPiece />
                 <FloorPiece />
-                <FloorPiece />
-                <FloorPiece />
                 <div className='relative bottom-[3.5px]'>
                     <FloorPiece />
                 </div>
@@ -26,6 +24,12 @@ const FirstLevel = () => {
                     <FloorPiece />
                 </div>
                 <div className='relative bottom-[17.5px]'>
+                    <FloorPiece />
+                </div>
+                <div className='relative bottom-[21px]'>
+                    <FloorPiece />
+                </div>
+                <div className='relative bottom-[24.5px]'>
                     <FloorPiece />
                 </div>
             </section>

@@ -18,6 +18,15 @@ import FourthLevel from './components/FourthLevel/FourthLevel.jsx'
 import ThirdLevel from './components/ThirdLevel/ThirdLevel.jsx'
 import SecondLevel from './components/SecondLevel/SecondLevel.jsx'
 import FirstLevel from './components/FirstLevel/FirstLevel.jsx'
+import ThreeLadder from './components/ThreeLadder/ThreeLadder.jsx'
+import TwoLadder from './components/TwoLadder/TwoLadder.jsx'
+import SixLadder from './components/SixLadder/SixLadder.jsx'
+import OneLadder from './components/OneLadder/OneLadder.jsx'
+import YellowVerticleBarrel from './components/YellowVerticleBarrel/YellowVerticleBarrel.jsx'
+import BlueVerticleBarrel from './components/BlueVerticleBarrel/BlueVerticleBarrel.jsx'
+import Hammer from './components/Hammer/Hammer.jsx'
+import Oil from './components/Oil/Oil.jsx'
+import Mario from './components/Mario/Mario.jsx'
 
 const App = () => {
   return (
@@ -43,7 +52,7 @@ const App = () => {
             <Barrels />
             <Kong />
           </section>
-          <article className="thirteen-ladder-container flex gap-9">
+          <article className="thirteen-ladder-container flex gap-7">
             <ThirteenLadder />
             <ThirteenLadder />
           </article>
@@ -79,8 +88,59 @@ const App = () => {
       <div className='absolute left-[129px] top-[764px]'>
         <FourLadder />
       </div>
-      <div className='absolute left-[749px] top-[890px]'>
+      <div className='absolute left-[749px] top-[894px]'>
         <FourLadder />
+      </div>
+      <div className='absolute left-[292px] top-[503px]'>
+        <FiveLadder />
+      </div>
+      <div className='absolute left-[357px] top-[418px]'>
+        <ThreeLadder />
+      </div>
+      <div className='absolute left-[682px] top-[482px]'>
+        <TwoLadder />
+      </div>
+      <div className='absolute left-[682px] top-[572px]'>
+        <TwoLadder />
+      </div>
+      <div className='absolute left-[259px] top-[693.5px]'>
+        <TwoLadder />
+      </div>
+      <div className='absolute left-[323px] top-[945px]'>
+        <TwoLadder />
+      </div>
+      <div className='absolute left-[392px] top-[750px]'>
+        <SixLadder />
+      </div>
+      <div className='absolute left-[456px] top-[622.5px]'>
+        <SixLadder />
+      </div>
+      <div className='absolute left-[357px] top-[371px]'>
+        <OneLadder />
+      </div>
+      <div className='absolute left-[259px] top-[612.5px]'>
+        <OneLadder />
+      </div>
+      <div className='absolute left-[323px] top-[871.5px]'>
+        <OneLadder />
+      </div>
+      <div className='absolute left-[336px] top-[341px]'>
+        <YellowVerticleBarrel />
+      </div>
+      <div className='absolute left-[140px] top-[715px]'>
+        <BlueVerticleBarrel />
+      </div>
+      <div className='absolute left-[70px] top-[400px]'>
+        <Hammer />
+      </div>
+      <div className='absolute left-[678px] top-[757px]'>
+        <Hammer />
+      </div>
+      <div className='absolute left-[63px] top-[904px]'>
+        <Oil />
+      </div>
+      <div className='absolute left-[363px] top-[909px]'>
+        <Mario />
       </div>
     </>
   )

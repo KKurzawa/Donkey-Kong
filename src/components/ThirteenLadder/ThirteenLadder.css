@@ -1,6 +1,10 @@
 .thirteen-ladder-side,
 .rung,
 .five-ladder-side,
-.four-ladder-side{
+.four-ladder-side,
+.three-ladder-side,
+.two-ladder-side,
+.six-ladder-side,
+.one-ladder-side{
     background-color: var(--blue-three);
 }

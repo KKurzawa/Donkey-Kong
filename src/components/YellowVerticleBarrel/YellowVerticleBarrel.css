@@ -1,0 +1,151 @@
+.yellow-verticle-barrel-a,
+.yellow-verticle-barrel-b,
+.yellow-verticle-barrel-c,
+.yellow-verticle-barrel-f,
+.yellow-verticle-barrel-i,
+.yellow-verticle-barrel-j,
+.yellow-verticle-barrel-k,
+.yellow-verticle-barrel-n,
+.yellow-verticle-barrel-o,
+.yellow-verticle-barrel-r,
+.yellow-verticle-barrel-s,
+.yellow-verticle-barrel-v,
+.yellow-verticle-barrel-w{
+    background-color: var(--peach);
+}
+
+.yellow-verticle-barrel-d,
+.yellow-verticle-barrel-e,
+.yellow-verticle-barrel-g,
+.yellow-verticle-barrel-h,
+.yellow-verticle-barrel-p,
+.yellow-verticle-barrel-q,
+.yellow-verticle-barrel-t,
+.yellow-verticle-barrel-u{
+    background-color: var(--orange);
+}
+
+.yellow-verticle-barrel-l,
+.yellow-verticle-barrel-m{
+    background-color: var(--blue-two);
+}
+
+.yellow-verticle-barrel{
+    grid-template-rows: repeat(10, 1fr);
+    grid-template-columns: repeat(14, 1fr);
+}
+
+.yellow-verticle-barrel-a{
+    grid-row: 1;
+    grid-column: 4/12;
+}
+
+.yellow-verticle-barrel-b{
+    grid-row: 2;
+    grid-column: 3/5;
+}
+
+.yellow-verticle-barrel-c{
+    grid-row: 2;
+    grid-column: 11/13;
+}
+
+.yellow-verticle-barrel-d{
+    grid-row: 2;
+    grid-column: 5/11;
+}
+
+.yellow-verticle-barrel-e{
+    grid-row: 3;
+    grid-column: 3/13;
+}
+
+.yellow-verticle-barrel-f{
+    grid-row: 4/8;
+    grid-column: 3/13;
+}
+
+.yellow-verticle-barrel-g{
+    grid-row: 8;
+    grid-column: 3/13;
+}
+
+.yellow-verticle-barrel-h{
+    grid-row: 9;
+    grid-column: 5/11;
+}
+
+.yellow-verticle-barrel-i{
+    grid-row: 10;
+    grid-column: 4/12;
+}
+
+.yellow-verticle-barrel-j{
+    grid-row: 9;
+    grid-column: 3/5;
+}
+
+.yellow-verticle-barrel-k{
+    grid-row: 9;
+    grid-column: 11/13;
+}
+
+.yellow-verticle-barrel-l{
+    grid-row: 2/10;
+    grid-column: 2;
+}
+
+.yellow-verticle-barrel-m{
+    grid-row: 2/10;
+    grid-column: 13;
+}
+
+.yellow-verticle-barrel-n{
+    grid-row: 3;
+    grid-column: 1;
+}
+
+.yellow-verticle-barrel-o{
+    grid-row: 3;
+    grid-column: 14;
+}
+
+.yellow-verticle-barrel-p{
+    grid-row: 4;
+    grid-column: 1;
+}
+
+.yellow-verticle-barrel-q{
+    grid-row: 4;
+    grid-column: 14;
+}
+
+.yellow-verticle-barrel-r{
+    grid-row: 5/7;
+    grid-column: 1;
+}
+
+.yellow-verticle-barrel-s{
+    grid-row: 5/7;
+    grid-column: 14;
+}
+
+.yellow-verticle-barrel-t{
+    grid-row: 7;
+    grid-column: 1;
+}
+
+.yellow-verticle-barrel-u{
+    grid-row: 7;
+    grid-column: 14;
+}
+
+.yellow-verticle-barrel-v{
+    grid-row: 8;
+    grid-column: 1;
+}
+
+.yellow-verticle-barrel-w{
+    grid-row: 8;
+    grid-column: 14;
+}
