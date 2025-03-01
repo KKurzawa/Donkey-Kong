@@ -1,8 +1,21 @@
-# React + Vite
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Javascript Algorithms
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A collection of Javascript algorithms solved with my own brain.
 
-Currently, two official plugins are available:
+## Credits
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+n/a
+
+## Questions
+
+[Github Profile](https://github.com/KKurzawa)
+
+Email me at kurzawa1@yahoo.com for questions.
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Kris Kurzawa
