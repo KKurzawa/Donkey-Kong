@@ -1,8 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Javascript Algorithms
+# Donkey Kong CSS
 
 ## Description
-A collection of Javascript algorithms solved with my own brain.
+A recreation of the classic donkey kong game board with CSS. This was an excercise in CSS grid.
+
+![screenshot1](https://github.com/KKurzawa/jimi-henderix-tribute/blob/main/public/March22Jimi.png)
+![screenshot1](https://github.com/KKurzawa/jimi-henderix-tribute/blob/main/public/March22Jimi.png)
+
+[Github Repository](https://github.com/KKurzawa/Donkey-Kong)
 
 ## Credits
 
