@@ -4,8 +4,8 @@
 ## Description
 A recreation of the classic donkey kong game board with CSS. This was an excercise in CSS grid.
 
-![screenshot1](https://github.com/KKurzawa/jimi-henderix-tribute/blob/main/public/March22Jimi.png)
-![screenshot1](https://github.com/KKurzawa/jimi-henderix-tribute/blob/main/public/March22Jimi.png)
+![screenshot1](https://github.com/KKurzawa/Donkey-Kong/blob/main/public/Screenshot1.png)
+![screenshot1](https://github.com/KKurzawa/Donkey-Kong/blob/main/public/Screenshot2.png)
 
 [Github Repository](https://github.com/KKurzawa/Donkey-Kong)
 
